@@ -1,2 +1,1 @@
-# rd-project
-rd project (Telegram bot for school лобачь)
+Нужно добавить путь картинок в бота
